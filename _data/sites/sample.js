@@ -1,11 +1,11 @@
 module.exports = {
-	name: "Sample", // optional, falls back to object key
+	name: "azure 1", // optional, falls back to object key
 	description: "The default sites that get tested",
 	options: {
 		runs: 1,
 		frequency: 1, // (in minutes)
 	},
 	urls: [
-		"https://www.speedlify.dev/"
+		"https://ozonewak-h9avg9bthdhzfje6.germanywestcentral-01.azurewebsites.net/"
 	]
 };
